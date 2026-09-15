@@ -15,7 +15,7 @@ proxy-providers:
     type： http
     url: https://rose.xiaozhou.qzz.io:2096/sub/我每天都好困ovo?format=clash
     interval: 86400
-    path: ./providers/provider2.yaml
+    path: ./providers/provider1.yaml
     health-check:
       enable: true
       interval: 600

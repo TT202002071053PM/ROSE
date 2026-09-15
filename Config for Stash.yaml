@@ -12,7 +12,7 @@ subscribe-url: Sunset
 #替换上面文字用于Stash获取机场流量信息并在主页显示
 proxy-providers:
   provider1:
-    type： http
+    type: http
     url: https://rose.xiaozhou.qzz.io:2096/sub/我每天都好困ovo?format=clash
     interval: 86400
     path: ./providers/provider1.yaml
